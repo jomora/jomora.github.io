@@ -10,3 +10,7 @@ github_username:  jomora
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+header_pages:
+  - about.md
+  - portfolio.md
