@@ -1,6 +1,12 @@
 Hi there and welcome to my blog about computer science (CS).
 From time to time, you will find new posts on a broad range of CS topics.
 
+# 02.12.2022 A process won't help your disfunctional team
+
+"So don't deceive yourself into thinking that a process will just solve a dysfunctional team's problems" - Billy Hollis
+
+https://youtu.be/cADdwFk2-7U?t=3109
+
 # 22.11.2022 Why I'm eager to be able to know the intricacies of the tools I use
 
 In the following video Jack Rusher talks about historical issues that influence how we build our software.
