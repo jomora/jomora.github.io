@@ -1,7 +1,7 @@
 Hi there and welcome to my blog about computer science (CS).
 From time to time, you will find new posts on a broad range of CS topics.
 
-# 02.12.2022 A process won't help your disfunctional team
+# 02.12.2022 A process won't help your dysfunctional team
 
 "So don't deceive yourself into thinking that a process will just solve a dysfunctional team's problems" - Billy Hollis
 
